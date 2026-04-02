@@ -1,6 +1,5 @@
 ## 🛒 Swiggy Instamart Sales Analysis
-
-**Power BI Dashboard to Analyze Sales Performance and Identify Revenue Drivers**
+**Power BI dashboard analyzing Swiggy Instamart sales to uncover revenue drivers, outlet performance, and city-tier insights.**
 
 ## 🚀 Business Problem
 
@@ -63,7 +62,7 @@ Built an interactive dashboard with:
 
 
 ## 📊 Dashboard Preview
-<img width="1421" height="800" alt="dashboard image" src="https://github.com/user-attachments/assets/8e30dcfb-582f-4ba2-b0dd-12fa363e7ffa" />
+![Final Dashboard](https://github.com/user-attachments/assets/c970d859-0b96-40c2-aa0c-96bc4ce9dea6)
 
 
 ## 📈 Key Insights
@@ -109,5 +108,5 @@ Built an interactive dashboard with:
 
 This project demonstrates how Power BI can transform raw sales data into **actionable insights**, enabling businesses to optimize **category strategy, outlet performance, and regional expansion.
 
-> Power BI dashboard analyzing Swiggy Instamart sales to uncover revenue drivers, outlet performance, and city-tier insights.
+
 
